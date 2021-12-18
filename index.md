@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to my humble art portfolio
 
 You can use the [editor on GitHub](https://github.com/kellwinr/kellwinrartportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Here is somthing about myself
+- I am dumb
+- I am bonkers
+- I am soinks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### These are by top 3 friends
+1. Douchhie
+2. Forkie
+3. Cleo Dookieslide
 
-```markdown
-Syntax highlighted code block
+### This is very important
+Bing bong bing bong boop!
 
-# Header 1
-## Header 2
-### Header 3
+[Click this to go to Wikipedia](https://www.wikipedia.org/) and ![Image](src)
 
-- Bulleted
-- List
+## **Here is some important shit I would like to point out**
+Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970)[1] is a Tongan politician, Cabinet Minister, and Member of the Legislative Assembly of Tonga who is the prime minister-designate of Tonga.[2] From 2014 to 2017 he was Deputy Prime Minister of Tonga.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### This is some code I would like to share
 ```
+print("Hello World")
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kellwinr/kellwinrartportfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```

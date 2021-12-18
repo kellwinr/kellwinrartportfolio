@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### This is very important
 Bing bong bing bong boop!
 
-[Click this to go to Wikipedia](https://www.wikipedia.org/) and ![Image](src)
+[Click this to go to Wikipedia](https://www.wikipedia.org/) and ![Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Siaosi_Sovaleni_ITU_2017.jpg/330px-Siaosi_Sovaleni_ITU_2017.jpg)
 
 ## **Here is some important shit I would like to point out**
 Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970)[1] is a Tongan politician, Cabinet Minister, and Member of the Legislative Assembly of Tonga who is the prime minister-designate of Tonga.[2] From 2014 to 2017 he was Deputy Prime Minister of Tonga.

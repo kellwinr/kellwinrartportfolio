@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/kellwinr/kellwinrartportfo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Here is somthing about myself
+### Here are somthing about myself
 - I am twentea
 - I am bonkers
-- I am weird
+- I am haizz
 - Je suis salade
 
-### These are by top 3 friends
-1. Birchmen
+### These are by top 3 enemies
+1. Douchebags
 2. Colonel Sanders
 3. Cleo Dookieslide
 
@@ -20,7 +20,7 @@ Bing bong bing bong boop!
 
 [Click this to go to Wikipedia](https://www.wikipedia.org/) and [Visit my GitHub page here](https://github.com/kellwinr)
 
-## **Here is some random stuff I would like to point out**
+## **Here are some random shyt I would like to point out**
 La salade aux œufs ou salade d'œufs, dans un sens plus restreint œufs en salade, est un plat froid composé d'œufs généralement durs découpés, d'une sauce (souvent mayonnaise) et de garnitures principalement de laitue. Elle peut être une salade majoritairement composée d'œufs (œufs en salade) ou une salade simple ou composée dans laquelle on coupe un œuf dur (salade aux œufs).
 
 Les salades composées aux œufs durs sont typiques de la gastronomie russe comme les salades aux œufs d'esturgeon, celles de chicorée de la gastronomie italienne, les salades aux œufs de merlu des cuisines méditerranéennes. Les œufs durs écrasés dans la mayonnaise sont populaires sous le nom d'Egg salad aux États-Unis et dans leur sphère d'influence où elle se mange en sandwich.

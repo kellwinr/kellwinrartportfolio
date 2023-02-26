@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Here are somthing about myself
 - I get very lazy when I am at home
 
-### These are by top 3 enemies
+### A**hole list
 1. My old secondary school classmates
 
 ### This is very important

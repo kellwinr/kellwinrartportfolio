@@ -8,7 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - I get very lazy when I am at home
 
 ### A**hole list
-1. My old secondary school classmates
+1. A****
+2. I***** C*********
+3. M**** G********
 
 ### This is very important
 Bing bong bing bong boop!
